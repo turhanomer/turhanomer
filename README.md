@@ -2,7 +2,7 @@
   console.log("Hello World 👋");
 ```
 # Who am I?
-### I'm Omer Turhan from Turkey. I do content on Front-End technologies. I really enjoy learning language and frameworks like HTML, CSS, and Javascript.
+### I'm Omer Turhan from Turkey. I create content on Front-End technologies. I really enjoy to learning new leanguages and frameworks for Front-End development.
 
 ## Skills & Experience
 
