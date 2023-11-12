@@ -1,16 +1,12 @@
-### Hi there 👋
+```
+  console.log("Hello World 👋");
+```
+# Who am I?
+### I'm Omer Turhan from Turkey. I do content on Front-End technologies. I really enjoy learning language and frameworks like HTML, CSS, and Javascript.
 
-<!--
-**turhanomer/turhanomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Experience
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 HTML, CSS, JS
+- 📚 BOOTSTRAP, SASS-SCSS
+- ⚙ GIT Version Control System
+- 🎯 REACT, TAILWIND(Coming Soon...)
