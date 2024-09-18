@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=turhanomer)
 # Who am I?
-I'm Omer Turhan from Turkey. I love building things. I create content on Front-End technologies. I really enjoy learning new for Node.js framework.
+I'm Omer Turhan from Turkey. I love building things. I create content on Front-End technologies. I really enjoy the learning process for the Node.js framework.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/omer.turhan_/) 
